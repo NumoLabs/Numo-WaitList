@@ -140,7 +140,7 @@ export function VaultCTA() {
                     <div className="absolute inset-0 bg-gradient-to-r from-white/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
                   )}
                 </button>
-
+{/* 
                 <div className="text-center sm:text-left">
                   <div className="text-sm text-gray-500 dark:text-gray-400">
                     <span className="font-semibold text-green-600 dark:text-green-400">2,847</span> already joined
@@ -151,7 +151,7 @@ export function VaultCTA() {
                     ))}
                     <span className="text-xs text-gray-500 dark:text-gray-400 ml-1">Trusted by users</span>
                   </div>
-                </div>
+                </div> */}
               </div>
 
               {status && (
@@ -171,7 +171,7 @@ export function VaultCTA() {
 
               <div className="text-center">
                 <p className="text-sm text-gray-500 dark:text-gray-400">
-                  By joining, you agree to receive updates about Numo. Unsubscribe anytime.
+                  By joining, you agree to receive updates about Numo.
                 </p>
               </div>
             </form>
