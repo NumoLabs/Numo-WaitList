@@ -8,7 +8,7 @@ export function Footer() {
           <p className="text-sm text-muted-foreground">© 2025 Numo. Built on Starknet.</p>
         </div>
         <div className="flex gap-4">
-          <Link href="https://github.com/NumoLabs/Numo" target="_blank" className="text-sm text-muted-foreground hover:text-foreground">
+          <Link href="https://github.com/NumoLabs" target="_blank" className="text-sm text-muted-foreground hover:text-foreground">
             GitHub
           </Link>
           <Link href="https://x.com/NumoLabs" target="_blank" className="text-sm text-muted-foreground hover:text-foreground">
