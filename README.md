@@ -4,6 +4,6 @@
 
 ### 📝 JOIN THE NUMO WAITLIST 📝
 
-### https://www.numowaitlist.xyz
+### https://numowaitlist.xyz/
 
 </div>
