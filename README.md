@@ -2,7 +2,7 @@
 
 #  **Numo WaitList**
 
-### 📝 JOIN TO NUMO WAITLIST 📝
+### 📝 JOIN THE NUMO WAITLIST 📝
 
 ### https://www.numowaitlist.com
 
