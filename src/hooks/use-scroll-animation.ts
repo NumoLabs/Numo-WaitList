@@ -42,7 +42,6 @@ export function useParallaxAnimation(speed = 0.5) {
     const handleScroll = () => {
       if (!isInView) return
 
-      const rect = element.getBoundingClientRect()
       const scrolled = window.scrollY
       const parallax = scrolled * speed
 
