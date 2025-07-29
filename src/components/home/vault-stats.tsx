@@ -18,7 +18,7 @@ export function VaultStats() {
           </div>
         </div>
         <div className="mx-auto grid max-w-5xl grid-cols-1 gap-6 py-12 md:grid-cols-3">
-          <div className="group p-[3px] rounded-lg bg-gradient-to-r from-red-500 via-yellow-500 via-green-500 via-blue-500 to-purple-500 animate-gradient-x hover:shadow-xl transition-all duration-300">
+          <div className="group p-[3px] rounded-lg bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 animate-gradient-x hover:shadow-xl transition-all duration-300">
             <Card className="h-full transition-all duration-300 group-hover:-translate-y-1 group-hover:shadow-lg">
               <CardHeader className="flex flex-row items-center justify-between pb-2 space-y-0">
                 <CardTitle className="text-sm font-medium">Vault APY</CardTitle>
@@ -36,7 +36,7 @@ export function VaultStats() {
               </CardContent>
             </Card>
           </div>
-          <div className="group p-[3px] rounded-lg bg-gradient-to-r from-red-500 via-yellow-500 via-green-500 via-blue-500 to-purple-500 animate-gradient-x hover:shadow-xl transition-all duration-300">
+          <div className="group p-[3px] rounded-lg bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 animate-gradient-x hover:shadow-xl transition-all duration-300">
             <Card className="h-full transition-all duration-300 group-hover:-translate-y-1 group-hover:shadow-lg">
               <CardHeader className="flex flex-row items-center justify-between pb-2 space-y-0">
                 <CardTitle className="text-sm font-medium">BTC Locked</CardTitle>
@@ -54,7 +54,7 @@ export function VaultStats() {
               </CardContent>
             </Card>
           </div>
-          <div className="group p-[3px] rounded-lg bg-gradient-to-r from-red-500 via-yellow-500 via-green-500 via-blue-500 to-purple-500 animate-gradient-x hover:shadow-xl transition-all duration-300">
+          <div className="group p-[3px] rounded-lg bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 animate-gradient-x hover:shadow-xl transition-all duration-300">
             <Card className="h-full transition-all duration-300 group-hover:-translate-y-1 group-hover:shadow-lg">
               <CardHeader className="flex flex-row items-center justify-between pb-2 space-y-0">
                 <CardTitle className="text-sm font-medium">Active Strategies</CardTitle>
@@ -68,7 +68,7 @@ export function VaultStats() {
               </CardContent>
             </Card>
           </div>
-          <div className="group p-[3px] rounded-lg bg-gradient-to-r from-red-500 via-yellow-500 via-green-500 via-blue-500 to-purple-500 animate-gradient-x hover:shadow-xl transition-all duration-300">
+          <div className="group p-[3px] rounded-lg bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 animate-gradient-x hover:shadow-xl transition-all duration-300">
             <Card className="h-full transition-all duration-300 group-hover:-translate-y-1 group-hover:shadow-lg">
               <CardHeader className="flex flex-row items-center justify-between pb-2 space-y-0">
                 <CardTitle className="text-sm font-medium">Users</CardTitle>
@@ -80,7 +80,7 @@ export function VaultStats() {
               </CardContent>
             </Card>
           </div>
-          <div className="group p-[3px] rounded-lg bg-gradient-to-r from-red-500 via-yellow-500 via-green-500 via-blue-500 to-purple-500 animate-gradient-x hover:shadow-xl transition-all duration-300">
+          <div className="group p-[3px] rounded-lg bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 animate-gradient-x hover:shadow-xl transition-all duration-300">
             <Card className="h-full transition-all duration-300 group-hover:-translate-y-1 group-hover:shadow-lg">
               <CardHeader className="flex flex-row items-center justify-between pb-2 space-y-0">
                 <CardTitle className="text-sm font-medium">Bond Yields</CardTitle>
@@ -92,7 +92,7 @@ export function VaultStats() {
               </CardContent>
             </Card>
           </div>
-          <div className="group p-[3px] rounded-lg bg-gradient-to-r from-red-500 via-yellow-500 via-green-500 via-blue-500 to-purple-500 animate-gradient-x hover:shadow-xl transition-all duration-300">
+          <div className="group p-[3px] rounded-lg bg-gradient-to-r from-red-500 via-orange-500 to-yellow-500 animate-gradient-x hover:shadow-xl transition-all duration-300">
             <Card className="h-full transition-all duration-300 group-hover:-translate-y-1 group-hover:shadow-lg">
               <CardHeader className="flex flex-row items-center justify-between pb-2 space-y-0">
                 <CardTitle className="text-sm font-medium">Forecasts Simulated</CardTitle>
