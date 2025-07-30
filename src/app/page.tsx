@@ -1,6 +1,5 @@
 import { VaultHero } from "@/components/home/vault-hero"
 import { VaultFeatures } from "@/components/home/vault-features"
-import { VaultStrategies } from "@/components/home/vault-strategies"
 import { VaultCTA } from "@/components/home/vault-cta"
 import { Header } from "@/components/ui/header"
 import { Footer } from "@/components/ui/footer"
@@ -14,7 +13,6 @@ export default function Home() {
       <main className="flex-1">
         {/* <VaultStats /> */}
         <VaultFeatures />
-        <VaultStrategies />
         <VaultCTA />
       </main>
       <Footer />
