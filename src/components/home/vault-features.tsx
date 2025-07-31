@@ -19,7 +19,7 @@ export function VaultFeatures() {
         >
           <div className="space-y-4">
             <motion.div 
-              className="inline-block rounded-lg bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 px-3 py-1 text-sm text-white font-medium shadow-lg shadow-blue-500/50 animate-pulse"
+              className="inline-block rounded-lg bg-gradient-to-r from-orange-500 via-orange-400 to-yellow-500 px-3 py-1 text-sm text-white font-medium shadow-lg shadow-orange-500/50 animate-pulse"
               initial={{ opacity: 0, scale: 0.8 }}
               whileInView={{ opacity: 1, scale: 1 }}
               transition={{ duration: 0.6, delay: 0.2 }}
@@ -70,7 +70,7 @@ export function VaultFeatures() {
               }}
               className="h-full transform-gpu preserve-3d"
             >
-              <Card className="group h-full bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 hover:border-orange-600 dark:hover:border-orange-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-8 hover:shadow-orange-600/30">
+              <Card className="group h-full bg-white dark:bg-gray-800 border-2 border-gray-200 dark:border-gray-700 hover:border-yellow-600 dark:hover:border-yellow-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-8 hover:shadow-yellow-600/30">
                 <div className="flex flex-col h-full">
                   <div className="mb-6">
                     <motion.div 
@@ -120,7 +120,7 @@ export function VaultFeatures() {
             }}
             className="transform-gpu preserve-3d"
           >
-            <Card className="group bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-orange-600 dark:hover:border-orange-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-6 hover:shadow-orange-600/30">
+            <Card className="group bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-yellow-600 dark:hover:border-yellow-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-6 hover:shadow-yellow-600/30">
               <motion.div 
                 className="w-12 h-12 bg-gradient-to-br from-orange-500 via-orange-400 to-yellow-500 rounded-xl flex items-center justify-center mb-4 shadow-lg shadow-orange-500/30"
                 whileHover={{ 
@@ -156,7 +156,7 @@ export function VaultFeatures() {
             }}
             className="transform-gpu preserve-3d"
           >
-            <Card className="group bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-orange-600 dark:hover:border-orange-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-6 hover:shadow-orange-600/30">
+            <Card className="group bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-yellow-600 dark:hover:border-yellow-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-6 hover:shadow-yellow-600/30">
               <motion.div 
                 className="w-12 h-12 bg-gradient-to-br from-orange-500 via-orange-400 to-yellow-500 rounded-xl flex items-center justify-center mb-4 shadow-lg shadow-orange-500/30"
                 whileHover={{ 
@@ -193,7 +193,7 @@ export function VaultFeatures() {
             }}
             className="transform-gpu preserve-3d"
           >
-            <Card className="group bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-orange-600 dark:hover:border-orange-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-6 hover:shadow-orange-600/30">
+            <Card className="group bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-yellow-600 dark:hover:border-yellow-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-6 hover:shadow-yellow-600/30">
               <motion.div 
                 className="w-12 h-12 bg-gradient-to-br from-orange-500 via-orange-400 to-yellow-500 rounded-xl flex items-center justify-center mb-4 shadow-lg shadow-orange-500/30"
                 whileHover={{ 
@@ -229,7 +229,7 @@ export function VaultFeatures() {
             }}
             className="transform-gpu preserve-3d"
           >
-            <Card className="group bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-orange-600 dark:hover:border-orange-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-6 hover:shadow-orange-600/30">
+            <Card className="group bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-yellow-600 dark:hover:border-yellow-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-6 hover:shadow-yellow-600/30">
               <motion.div 
                 className="w-12 h-12 bg-gradient-to-br from-orange-500 via-orange-400 to-yellow-500 rounded-xl flex items-center justify-center mb-4 shadow-lg shadow-orange-500/30"
                 whileHover={{ 
@@ -273,7 +273,7 @@ export function VaultFeatures() {
             }}
             className="transform-gpu preserve-3d"
           >
-            <Card className="group bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-orange-600 dark:hover:border-orange-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-6 hover:shadow-orange-600/30">
+            <Card className="group bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-yellow-600 dark:hover:border-yellow-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-6 hover:shadow-yellow-600/30">
               <div className="flex flex-col items-start">
                 <motion.div 
                   className="w-12 h-12 bg-gradient-to-br from-orange-500 via-orange-400 to-yellow-500 rounded-2xl flex items-center justify-center mb-4 shadow-lg shadow-orange-500/30"
@@ -337,7 +337,7 @@ export function VaultFeatures() {
           }}
           className="transform-gpu preserve-3d"
         >
-          <Card className="group bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-orange-600 dark:hover:border-orange-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-6 hover:shadow-orange-600/30">
+          <Card className="group bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 hover:border-yellow-600 dark:hover:border-yellow-400 transition-all duration-500 hover:shadow-xl rounded-2xl p-6 hover:shadow-yellow-600/30">
             <div className="flex flex-col items-start">
               <motion.div 
                 className="w-12 h-12 bg-gradient-to-br from-orange-500 via-orange-400 to-yellow-500 rounded-2xl flex items-center justify-center mb-4 shadow-lg shadow-orange-500/30"

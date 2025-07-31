@@ -78,7 +78,7 @@ export function VaultCTA() {
             transition={{ duration: 0.4, ease: "easeOut" }}
             viewport={{ once: true, amount: 0.2 }}
           >
-            <div className="inline-block rounded-lg bg-gradient-to-r from-cyan-400 via-blue-500 to-purple-600 px-3 py-1 text-sm text-white font-medium shadow-lg shadow-blue-500/50 mb-6">
+            <div className="inline-block rounded-lg bg-gradient-to-r from-orange-500 via-orange-400 to-yellow-500 px-3 py-1 text-sm text-white font-medium shadow-lg shadow-orange-500/50 mb-6">
               Limited Beta Access
             </div>
             <h2 className="text-4xl md:text-5xl font-extrabold tracking-tight mb-6 text-gray-900 dark:text-white">
